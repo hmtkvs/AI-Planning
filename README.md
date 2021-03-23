@@ -1,4 +1,4 @@
-# AI-Planning
+# Planning in Artificial Intelligence
 Modeling deterministic planning problems and solving them efectively with some classical planner.
 
 ### Instructions
