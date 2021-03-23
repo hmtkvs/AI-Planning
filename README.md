@@ -1,2 +1,5 @@
 # AI-Planning
-Modeling and solving deterministic planning problems
+Modeling deterministic planning problems and solving them efectively with some classical planner.
+
+### Instructions
+
