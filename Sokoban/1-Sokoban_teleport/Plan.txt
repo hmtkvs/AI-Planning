@@ -1,0 +1,8 @@
+(teleport p42 p14 teleport1)
+(push-box p14 p24 p34)
+(push-box p24 p34 p44)
+(teleport p34 p21 teleport2)
+(push-box p21 p31 p41)
+(move-player p31 p32)
+(move-player p32 p33)
+(push-box p33 p43 p53)
