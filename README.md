@@ -1,4 +1,4 @@
-# Planning in Artificial Intelligence
+# Sokoban Solver
 Modeling deterministic planning problems and solving them efectively with some classical planner.
 
 ### Instructions
